@@ -1,21 +1,20 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
-### I'm Igwe-Oruta Maryann 
-**aka [Code-Mary](https://github.com/mary1na-code)**  
+** I'm Igwe-Oruta Maryann aka [Code-Mary](https://github.com/mary1na-code)**  
 ---
 ## About Me
-- 🎨 Product Engineer building for **impact and fun**
-- 💻 Skilled in **HTML, CSS, JavaScript, React, React Native, Python**
-- 🌱 Currently exploring **EdTech**, **special applications for special individuals**, and **agentic AI**
-- 🤝 Open to collaborations and contributions
+- I am a Product Engineer building for impact and fun
+- Skilled in **HTML, CSS, JavaScript, React, React Native, Python**
+- Currently exploring **EdTech**, **special applications for special individuals**, and **agentic AI**
+- Open to collaborations and contributions
 
 ## Current Focus
-- Developing **Calma AI** (saving up for a domain!)
+- Developing **Calma AI**
 - Working on projects that empower learning and accessibility
-- Experimenting with creative, human-centered applications of AI
+- School 
 
 ## Beyond Tech
-- I dance a lot 💃
-- I love singing, watching movies, and discussing big ideas about life, humanity, and innovation
+- I dance a lot 
+- I love singing, watching movies, and discussing big ideas about life and humanity.
 
 ## 📫 Connect With Me
 - Email: **maryannigweoruta@gmail.com**
